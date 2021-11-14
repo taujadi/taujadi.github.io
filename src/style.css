@@ -249,8 +249,6 @@ footer {
   .header {
     margin-top: calc(var(--nav-height) + 1rem);
     min-height: calc(100vh - (var(--nav-height) + 1rem));
-    display: flex;
-    align-items: center;
   }
   .mobile-col-reverse {
     display: flex;
