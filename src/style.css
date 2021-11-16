@@ -282,6 +282,10 @@ footer {
     margin-top: 70px;
   }
 
+  .mobile-mb-2 {
+    margin-bottom: 2rem;
+  }
+
   .mobile-w-80 {
     width: 80%;
   }
